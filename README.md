@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋
 
 <!--
 **mans82/mans82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Amir Hossein! I currently study Computer Engineering at Shahid Beheshti University. I love hacking into things, building awesome tools, automating tasks, Leetcoding, reading fiction (and sometimes non-fiction too), and sitting in front of my desk and staring at the monitor for hours long during the day.
+
+You can reach me via [my email](mailto:cando428@gmail.com).
